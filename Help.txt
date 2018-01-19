@@ -1,0 +1,172 @@
+DAVID ALDAY
+SC1
+
+           ---------------------------------------------------------
+          |     _____ _____ _____ _____ __    _____ _____ _____     |
+          |    |  _  |  |  |__   |__   |  |  |     |   | |   __|    |
+          |    |   __|  |  |   __|   __|  |__|-   -| | | |  |  |    |
+          |    |__|  |_____|_____|_____|_____|_____|_|___|_____|    |
+          |  _____ _____ _____ _____ _____ _____ _____ _____ _____  |
+          | |     |  |  |   __|   __|_   _|     |     |   | |   __| |
+          | |  |  |  |  |   __|__   | | | |-   -|  |  | | | |__   | |
+          | |__  _|_____|_____|_____| |_| |_____|_____|_|___|_____| |
+          |    |__|                                                 |
+           ---------------------------------------------------------
+                                 
+                                 a) Play Game
+                                
+                                 b) Help
+                                
+                                 c) Exit
+*
+
+SC2
+
+Question 15
+    Answer: to create is to inspire
+
+    Reason: The question ask you the uesless sentence of the day.
+           If you have noticed already, there are "useless words"
+           scatter throughout the quiz. If you were paying 
+           attention, the words are found in questions :
+                       2 , 6 , 9 , 12 , 14
+           Togather this makes : to create is to inspire
+
+
+Question 14
+   Answer: 14
+
+   Reason: The question gives you a hint. "The last two digits
+          one of the numbers below and the mystery number". It
+          also says that the guy "dropped" the codes somewhere.
+          The only numbers that are not in the code pad is the 
+          question number itself.
+
+
+Question 13
+   Answer: d
+
+            R     a         c         e
+   Reason:  Rat  Baboon   Raccoon  Camel
+            1     2         3         4
+        
+  
+              c            a           r
+         Cape-cobra   Pelican    hamster
+              5            6           7
+
+
+Question 12
+   Answer: a) Give the world a snickers
+
+   Reason: In this question, treat the world like a person. If
+          you want to end someone's hunger, give them something
+          to eat. In this case a snickers. 
+
+
+Question 11
+    Answer: b) Search
+   
+    Reason: This question is a reference to the Google logo. The
+           letters on the logo are colored in order from
+            Blue , Red , Orange , Blue , Green, and Red.
+
+
+Question 10
+   Anwser: infront of you
+  
+   Reason: Don't think too hard on this one. Look at the hint given
+          to you
+            
+           "The answer to this question is " : infront of you .
+
+
+Question 9
+   Answer: c) 8
+
+   Reason: If you look closely at row 6, you can see an 8 that is
+          surrounded by the characters "&".
+
+
+Question 8:
+   Answer: a) Paused it
+  
+   Reason: This question is a reference to youtube videos. There are
+          times where we need to pause the video because our internet
+          is slow. We would normally see two bars near the bottem of 
+          the video, RED and GRAY. Most of the time, we let the GRAY
+          bar load up so we can watch the video without distraction.
+           The only way we can do this is by "Pausing" the video. 
+
+
+Question 7:
+   Answer: d) UJXBFS
+
+   Reason: If you look closely at the answer, you can see that each
+         letter is a letter before the letters shown in the question.
+                                 U -> V
+                                 J -> K
+                                 X -> Y
+                                 B -> C
+                                 G -> F
+                                 S -> T 
+
+
+
+Question 6: 
+   Answer: a) Above the elbows
+
+   Reason: This question wasn't actually talking about literal guns, 
+          but an alternative term to the word "Muscles", which happen
+          to be above the elbow(Biceps/Triceps).
+
+
+Question 5: 
+   Answer: r
+
+   Reason: Pirate Pete actually gives you a hint in this question. 
+         Noticed how he just says "ARRRRGHHH"? the answer to this
+         question is "r" because "ARRRGHHH" sounds like the letter
+         "r"
+
+
+Question 4: 
+   Answer: b) be with you
+
+   Reason:  This question is a reference to the popular quote from
+          "Star Wars", " May the force be with you".
+
+
+Question 3:
+   Answer: c) Primary
+
+   Reason: This question is actually asking about the voting process 
+         in America. we first have the PRIMARY and then we have the
+         GENERAL vote. 
+            If we were to put general in a military perspective, a, b
+         are wrong because a and b are ranks that are from another
+         branch, while d is a political/military position.
+
+
+
+Question 2:
+   Answer: d) 5
+
+   Reason: The question ask how many holes in the statement 
+                          "a hole in one"
+                           1  2 3    4 5               
+           Every letter that has a hole is counted. In this
+          case there are 5 letters with a hole in them.
+
+
+
+Question 1:
+  Answer:  c) 317
+
+  Reason:  The question itself was actually asking 17 + 300 =
+                      
+                           1)     7 + 300 = 
+                               17+300=17
+                                         
+
+*

@@ -1,0 +1,46 @@
+1.  Use a decision (e.g. if-else)
+I used a decision on line _____20_______ of the file ___Game.cpp________.
+
+
+2.  Use a loop (e.g. for, while)
+I used a loop on line ______121_______ of the file ____Game.cpp_______.
+
+
+3.  Write and use a function that returns a value
+I wrote a function named _____bool gameIsOver(Player User)________ on line ____35_________ of the file ___Game.cpp__________.  It returns a value of type ____ bool________.
+I called the function on line _______155______ of the file ____Game.cpp_________ and used the returned value to ___bool_________.
+
+4.  Write and use a function that has a parameter
+I wrote a function named ___printQuestion__________ on line ____53_________ of the file __Game.cpp___________.  It has a parameter of type __ifstream &file, String Question___________.
+I called the function on line ____131_________ of the file _____game.cpp________ and passed the parameter ____qFile,Questions[i]_________.
+
+5.  Use an array or a vector
+I declared an array or a vector on line ______8_______ of the file ____Game.cpp_________, and used it to ___store answers/questions__________.
+
+6.  Get input from the user or a file
+I get input from (the user/a file) on line ____62_________ of the file ____Game.cpp_________.
+
+7.  Print output to the screen or a file
+I print output to (the screen/a file) on line ____70_________ of the file ____Game.cpp_________.
+
+9.  Use at least one class
+My project has the class named ___Player_Class.cpp__________.  It is defined in the file(s) ____Player_Class.cpp_________.
+
+
+
+Unfortunatly, I was not able to complete 8, 10, or 11 for the requirements. I guess I didn't allocate my time properly to think of a proper use for those requirements in my project
+and sorry in advance for not making my project compatiable with vocareum (It doesn't like c++ 11 ). It does however work in Visual studios, so if you want to try it out I can always
+just copy the folder and send it to you. 
+
+
+DID NOT COMPLETE:
+
+8.  Use a pointer variable
+I declared a pointer variable on line _____________ of the file _____________ and used it to _____________.
+
+
+10. Use dynamic memory allocation
+I dynamic allocated memory on line _____________ of the file _____________, and ensured there was no memory leak by deleting (freeing) the used memory on line _____________ of the file _____________.
+
+11. Learn and use one new topic
+The new topic I learned was _____________.  I used it to do _____________ in my project on line _____________ of the file _____________.
